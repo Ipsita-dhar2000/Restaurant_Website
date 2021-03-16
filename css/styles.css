@@ -28,3 +28,15 @@
     margin: 0px;
     color:darkslategray;
 }
+
+.d-none 
+.d-sm-block
+
+.body{
+    padding: 50px 0px 0px 0px;
+    z-index: 0;
+}
+
+.navbar-dark{
+    background-color: purple;
+}
